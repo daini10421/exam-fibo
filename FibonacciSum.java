@@ -14,3 +14,6 @@ public class FibonacciSum {
         System.out.println("Sum of first " + n + " Fibonacci numbers is: " + sum);
     }
 }
+
+
+
